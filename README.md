@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">Luis Neves</h1>
+<p align="center">
+  <sub>Clique no idioma para expandir / Click the language to expand</sub>
+</p>
 
-<!--
-**luisoneves/luisoneves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details open>
+<summary><strong>🇧🇷 Português</strong></summary>
+<br>
 
-Here are some ideas to get you started:
+Desenvolvedor fullstack. Projeto, desenvolvo e sustento sites, serviços e sistemas sob medida para negócios locais no Vale do Paraíba, do front ao deploy. Estudante de ADS, uso IA como parte do fluxo de execução.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</details>
+
+<details>
+<summary><strong>🇺🇸 English</strong></summary>
+<br>
+
+Full-stack developer. I design, build, and maintain custom websites, services, and systems for local businesses in Brazil's Vale do Paraíba region — from frontend to deployment. CS student, using AI as part of my development workflow.
+
+</details>
+
+## Ferramentas por área
+
+- **Builder:** Astro/Next.js · TypeScript · REST APIs · pnpm
+- **DevOps & Sec:** Linux (daily driver) · Docker · CI/CD · VPS · Cloudflare
+- **QA & Observabilidade:** Testes E2E · Logs · Uptime
+- **Domain & Growth:** DDD · Analytics · Copywriting
+- **CLI & Ambiente:** Bash/Shell · tmux · RAG · MCP
+- **Fluxo de execução:** Claude Code · CLI OpenCode · Grok · Agy · Ollama
