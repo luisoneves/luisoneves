@@ -16,7 +16,7 @@ Desenvolvedor fullstack. Projeto, desenvolvo e sustento sites, serviços e siste
 <summary><strong>🇺🇸 English</strong></summary>
 <br>
 
-Full-stack developer. I design, build, and maintain custom websites, services, and systems for local businesses in Brazil's Vale do Paraíba region, from frontend to deployment. CS student, using AI as part of my development workflow.
+Full-stack developer. I design, build, and maintain custom websites, services, and systems for local businesses in Brazil's Vale do Paraíba region, from frontend to deployment. ADS student, using AI as part of my development workflow.
 
 </details>
 
