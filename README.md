@@ -8,15 +8,15 @@
 <summary><strong>🇧🇷 Português</strong></summary>
 <br>
 
-Desenvolvedor fullstack. Projeto, desenvolvo e sustento sites, serviços e sistemas sob medida para negócios locais no Vale do Paraíba, do front ao deploy. Estudante de ADS, uso IA como parte do fluxo de execução.
+Desenvolvedor fullstack. Projeto, desenvolvo e sustento sites, serviços e sistemas sob medida para negócios locais no Vale do Paraíba, do front ao deploy. Estudante de ADS na FATEC Guaratinguetá, uso IA como parte do fluxo de execução.
 
 </details>
 
-<details>
+<details open>
 <summary><strong>🇺🇸 English</strong></summary>
 <br>
 
-Full-stack developer. I design, build, and maintain custom websites, services, and systems for local businesses in Brazil's Vale do Paraíba region, from frontend to deployment. ADS student, using AI as part of my development workflow.
+Full-stack developer. I design, build, and maintain custom websites, services, and systems for local businesses in Brazil's Vale do Paraíba region, from frontend to deployment. Systems Analysis and Development (ADS) student, São Paulo State Technology College (FATEC), Guaratinguetá campus, using AI as part of my development workflow.
 
 </details>
 
