@@ -25,13 +25,13 @@ Full-stack developer. I design, build, and maintain custom websites, services, a
 ### Ferramentas por área
 
 **Builder**
-`Astro/Next.js` `TypeScript` `REST APIs` `pnpm`
+`Astro/Next.js` `TypeScript` `REST APIs` `pnpm` `Design responsivo`
 
 **DevOps & Sec**
-`Linux (daily driver)` `Docker` `CI/CD` `VPS` `Cloudflare`
+`Linux (daily driver)` `Docker` `CI/CD` `VPS` `Cloudflare` `LGPD`
 
 **QA & Observabilidade**
-`Testes E2E` `Logs` `Uptime`
+`Testes E2E` `Logs` `Uptime` `Acessibilidade (WCAG)`
 
 **Domain & Growth**
 `DDD` `Analytics` `Copywriting`
