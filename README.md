@@ -41,3 +41,18 @@ Full-stack developer. I design, build, and maintain custom websites, services, a
 
 **Fluxo de execução**
 `Claude Code CLI` `OpenCode` `Grok` `Agy` `Ollama`
+
+<details open>
+<summary><strong>🌐 Featured Projects - Luis Otavio Neves Faustino </strong></summary>
+<br>
+  
+  **https://www.acpdovale.com.br/** - `Professional platform developed for client Sirney Silveira.`
+  
+  **https://infinitycarefrandias.com.br/** - `Institutional website built for a corporate aesthetics clinic.`
+  
+  **https://astro-terapia.pages.dev/** - `Responsive landing page created as a case study.`
+  
+  **https://alma-artesanal.pages.dev/** - `Personal marketplace MVP designed for e-commerce validation.`
+
+  **https://luisotavioneves.pages.dev/** - `Check out my full portfolio at (Constantly updated) )`
+</details>
