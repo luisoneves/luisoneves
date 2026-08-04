@@ -56,3 +56,20 @@ Full-stack developer. I design, build, and maintain custom websites, services, a
 
   **https://luisotavioneves.pages.dev/** - `Check out my full portfolio at (Constantly updated) )`
 </details>
+
+
+<details open>
+<summary><strong>🛠️ Case Studies & Core Infrastructure (Internal & Private Labs)</strong></summary>
+<br>
+  
+  **Agy IA Orchestrator** - `State-graph autonomous engine built with LangGraph and n8n to coordinate local LLMs (DeepSeek-R1, Qwen) with zero API costs.`
+  
+  **Monarca Framework & Portal** - `Private TypeScript-based internal architecture engineered to accelerate full-stack development and component isolation.`
+  
+  **Sorveteria Arthies** - `Full-stack web application developed to explore optimized asset loading and responsive architectures using TypeScript.`
+  
+  **App Finança & BeautyCare** - `Performance labs exploring alternative frontend reactive ecosystems using Svelte and Vue.js.`
+
+  **Dev Diocese (Chapel Management)** - `Full-stack deployment lab built with Strapi CMS to master software lifecycle management, version control strategies (LTS vs. Latest), and backend scaling.`
+  
+</details>
